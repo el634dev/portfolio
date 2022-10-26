@@ -27,6 +27,7 @@ Dribble
 - `npm i @nextui-react`
 - `npm start` to run the project
 - Create a Dribble account, this is free and for the project card images
+- Change work, experience, skills, education and name to your information
 
 ## Extra Features
 
@@ -45,6 +46,7 @@ Dribble
 - Run `npm start` to see your project in your browser
 - Create your own portfolio
 - Create a Dribble account if you do not have one setup yet, this is for the project card images and is free
+- Change work, experience, skills, education and name to your information
 
 ## License Note
 You can use the code just say where it came from
