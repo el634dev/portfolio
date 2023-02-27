@@ -3,7 +3,7 @@ export const WorkData = [
     company: "Formation",
     designation: "Software Engineering Fellow",
     dateJoining: "06-2022 ",
-    dateEnd: " Present",
+    dateEnd: " 12-2022",
     companyLogo:
       "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/g2wfhrjfnxzqro78klvg",
     work: "Completing intensive training to master computer science fundamentals through coding exercises through independent study, pair programming and small mentor-led groups. Implemented product ready features and fixed bugs.",
