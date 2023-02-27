@@ -9,6 +9,6 @@ export const SocialData = [
     id: 1,
     platform: "Linkedin",
     icon: require("../assets/icons/linkedin.png").default,
-    link: "www.github.com",
+    link: "www.linkedin.com",
   },
 ];
