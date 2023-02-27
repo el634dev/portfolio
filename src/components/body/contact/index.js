@@ -10,8 +10,8 @@ function Contact() {
       <label className="section-title">Education</label>
       <div className="contact-container">
         <div className="contact-left">
-          <p>Open Source Society University </p>
-          <p>Completing computer science coursework inlcuding: Intro CS, Core CS, Advanced CS, Final Project</p>
+          <p>Dominican University of California</p>
+          <p>Completing computer science coursework towards a Bachelor's of Science in Applied Computer Science</p>
           <p>App Academy Open</p>
           <p>Software development bootcamp covering web development over 24 weeks</p>
           <SocialContact />
