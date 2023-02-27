@@ -6,7 +6,7 @@ export const WorkData = [
     dateEnd: " Present",
     companyLogo:
       "https://res.cloudinary.com/practicaldev/image/fetch/s--k3hUvJ_o--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/462/1eba8151-95e3-4df8-b2a0-6d6b5a4c9bdd.png",
-      //https://www.guidestar.org/ViewEdoc.aspx?eDocId=5956146&approved=True
+      //https://www.guidestar.org/ViewEdoc.aspx?eDocId=5956146
     work: "Manged and maintain complex WordPress sites. Improved responsiveness and SEO rankings of complex WordPress sites. Tracked bugs and implemented new features in complex WordPress sites.",
   },
   {
